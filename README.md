@@ -2,7 +2,7 @@
 
 *A code of conduct is a vital component for a computer practitioner in their day to day activities. This gives them an idea of the rules of computing, but it is not always as simple as that, as their own judgement is required to know what is allowed and what is not.* 
 
-Below are the attributes that we feel are vital to our group working together smoothly and effectively.  
+*Below are the attributes that we feel are vital to our group working together smoothly and effectively.  
 
 ## 1.	Obligation to Society
 
