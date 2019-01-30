@@ -21,3 +21,5 @@ Below are the attributes that we feel are vital to our group working together sm
 - Work as hard and productively as you can - Do not allow one person to do the majority of the work.
 - But do not try and do all the work by yourself as each team member must contribute.
 - Make a conscious effort to get along with the team.
+
+Not following the Code of Conduct set by our team can result in any member being fired - which in worst case - can result in that induvidual failing this module.
