@@ -1,6 +1,6 @@
 # Code of Conduct - Group 2 
 
-A code of conduct is a vital component for a computer practitioner in their day to day activities. This gives them an idea of the rules of computing, but it is not always as simple as that, as their own judgement is required to know what is allowed and what is not. 
+*A code of conduct is a vital component for a computer practitioner in their day to day activities. This gives them an idea of the rules of computing, but it is not always as simple as that, as their own judgement is required to know what is allowed and what is not.* 
 
 Below are the attributes that we feel are vital to our group working together smoothly and effectively.  
 
@@ -22,4 +22,4 @@ Below are the attributes that we feel are vital to our group working together sm
 - But do not try and do all the work by yourself as each team member must contribute.
 - Make a conscious effort to get along with the team.
 
-Not following the Code of Conduct set by our team can result in any member being fired - which in worst case - can result in that induvidual failing this module.
+*Not following the Code of Conduct set by our team can result in any member being fired - which in worst case - can result in that induvidual failing this module.*
